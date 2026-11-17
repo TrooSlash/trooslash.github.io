@@ -1,0 +1,32 @@
+{
+  "en": {
+    "name": "English",
+    "path": "",
+    "locale": "en_US",
+    "title": "TrooSlash: projects and applications",
+    "description": "Projects by TrooSlash. Meet Dokvi, a free Markdown reader and editor for Windows with live preview and PDF export.",
+    "heading": "My projects.",
+    "intro": "Applications I build. Find out what each one does, visit its website, or take a look at the source.",
+    "skip": "Skip to projects",
+    "navigation": "Main navigation",
+    "language": "Language",
+    "source": "Source code",
+    "siteSource": "Website source",
+    "byline": "Projects by TrooSlash"
+  },
+  "ru": {
+    "name": "Русский",
+    "path": "ru/",
+    "locale": "ru_RU",
+    "title": "TrooSlash: проекты и приложения",
+    "description": "Проекты TrooSlash. Dokvi: бесплатная читалка и редактор Markdown для Windows с предпросмотром и экспортом PDF.",
+    "heading": "Мои проекты.",
+    "intro": "Приложения, которые я создаю. Здесь можно познакомиться с каждым проектом, перейти на его сайт или посмотреть исходники.",
+    "skip": "Перейти к проектам",
+    "navigation": "Основная навигация",
+    "language": "Язык",
+    "source": "Исходный код",
+    "siteSource": "Исходный код сайта",
+    "byline": "Проекты TrooSlash"
+  }
+}

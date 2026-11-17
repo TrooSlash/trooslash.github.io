@@ -1,0 +1,29 @@
+[
+  {
+    "id": "dokvi",
+    "name": "Dokvi",
+    "platform": "Windows",
+    "category": "Markdown",
+    "repository": "https://github.com/TrooSlash/dokvi",
+    "icon": "dokvi.svg",
+    "image": "dokvi-editor.png",
+    "en": {
+      "url": "https://trooslash.github.io/dokvi/",
+      "siteLabel": "Visit Dokvi website",
+      "screenshotNote": "Dokvi with source and preview side by side. Russian interface shown.",
+      "description": "Read and edit Markdown with the result in view. A focused space for notes, README files, and documentation.",
+      "features": ["Live preview", "Document tabs", "PDF export"],
+      "license": "Free and open source",
+      "imageAlt": "Dokvi for Windows with Markdown source on the left and a formatted preview on the right"
+    },
+    "ru": {
+      "url": "https://trooslash.github.io/dokvi/ru/",
+      "siteLabel": "Открыть сайт Dokvi",
+      "screenshotNote": "Dokvi: исходник и предпросмотр рядом. Показан русский интерфейс.",
+      "description": "Читайте и редактируйте Markdown, сразу видя результат. Для заметок, README и документации.",
+      "features": ["Предпросмотр", "Вкладки", "Экспорт PDF"],
+      "license": "Бесплатно, с открытым кодом",
+      "imageAlt": "Dokvi для Windows: исходник Markdown слева, оформленный документ справа"
+    }
+  }
+]

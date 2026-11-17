@@ -57,6 +57,7 @@ function render(lang) {
 <meta name="description" content="${escape(text.description)}">
 <meta name="theme-color" content="#faf9f7">
 <meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="google-site-verification" content="CfCIP87gMkBih1HmGeUQOduW5shzQzIww9m6P7w6d2U">
 <link rel="canonical" href="${url}">
 ${alternates}
 <link rel="alternate" hreflang="x-default" href="${siteUrl}">
